@@ -106,7 +106,7 @@ theme: next.Pisces
 
 deploy:
   type: git
-  repo: git@github.com:peienwu/peienwu_blog.git
+  repo: git@github.com:peienwu1216/peienwu-blog.git
   branch: gh-pages
 
 # 注意：yml 非常在意縮排。
