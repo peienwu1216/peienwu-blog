@@ -1,6 +1,7 @@
 ---
 title: 數獨問題（Sudoku）：以C++實作
 date: 2021-3-7
+sticky: 55
 tags: 
     - 數學
     - 數獨

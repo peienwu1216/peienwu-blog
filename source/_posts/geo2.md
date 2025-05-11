@@ -1,6 +1,7 @@
 ---
 title: 計算幾何例題（Computational Geometry Problems）
 date: 2021-8-22
+sticky: 70
 tags: 
     - 計算幾何
     - 暑期筆記

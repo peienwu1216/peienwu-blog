@@ -1,6 +1,7 @@
 ---
 title: 線段樹（Segment Tree）
 date: 2021-8-5
+sticky: 75
 tags: 
     - 2020資訊之芽
     - 2021暑假筆記

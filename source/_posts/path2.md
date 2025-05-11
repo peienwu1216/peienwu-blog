@@ -1,6 +1,7 @@
 ---
 title: 最短路徑例題（Shortest Path Problem）
 date: 2021-8-16
+sticky: 90
 tags: 
     - 2020資訊之芽
     - 2021暑期筆記
