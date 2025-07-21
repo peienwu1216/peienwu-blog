@@ -9,6 +9,8 @@ tags:
 categories:
 	- C++基礎主題
 	- 枚舉
+redirect_from:
+  - /Sudoku/
 
 mathjax: true
 ---

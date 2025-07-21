@@ -6,6 +6,8 @@ tags:
     - 物理筆記
 categories: 
     - 數學筆記
+redirect_from:
+  - /Gravity2/
 mathjax: true
 ---
 
