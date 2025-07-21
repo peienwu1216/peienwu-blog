@@ -6,7 +6,7 @@ tags:
     - 網站架設
 categories: 其他
 redirect_from:
-  - /Blog/
+  - /blog/
 mathjax: true
 ---
 本網頁就是利用github page架設的部落格，使用Hexo搭配Next主題。

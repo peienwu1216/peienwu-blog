@@ -8,7 +8,7 @@ tags:
 categories: 
     - 數學筆記
 redirect_from:
-  - /Gravity1/
+  - /gravity1/
 mathjax: true
 ---
 

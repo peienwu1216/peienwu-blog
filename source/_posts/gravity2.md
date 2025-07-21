@@ -7,7 +7,7 @@ tags:
 categories: 
     - 數學筆記
 redirect_from:
-  - /Gravity2/
+  - /gravity2/
 mathjax: true
 ---
 
